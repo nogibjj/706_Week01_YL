@@ -1,5 +1,4 @@
-name: CiCd
-
+name: CICD
 on:
   push:
     branches: [ "main" ]
