@@ -1,3 +1,5 @@
+[![CI](https://github.com/nogibjj/706_Week01_YL/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/706_Week01_YL/actions/workflows/cicd.yml)
+
 # 706_Week01_YL
 
 This repository includes the main tasks for Week 1:
